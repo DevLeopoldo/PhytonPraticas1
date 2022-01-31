@@ -1,3 +1,5 @@
 # PhytonPraticas1
-https://www.cursoemvideo.com/
+
 Curso Python 1°Parte
+
+https://www.cursoemvideo.com/
